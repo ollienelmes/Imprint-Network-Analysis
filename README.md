@@ -1,4 +1,4 @@
-# Imprint-Network-Analysis
+# Imprint Network Analysis Tool
 This tool generates a network of named individuals extracted from the imprint line found within catalogue data (MARC format).  Named individuals and relationships are exported as a nodes and edges list from which they can be used for network analysis.
 
 ***Loading Data***
